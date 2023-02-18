@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\bin\Debug\net6.0\ContactDAL.deps.json
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\bin\Debug\net6.0\ContactDAL.dll
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\bin\Debug\net6.0\ContactDAL.pdb
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.AssemblyInfo.cs
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.dll
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\refint\ContactDAL.dll
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ContactDAL.pdb
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\Contacts\Contacts\ContactDAL\obj\Debug\net6.0\ref\ContactDAL.dll

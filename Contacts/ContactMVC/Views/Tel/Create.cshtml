@@ -1,0 +1,13 @@
+@model TelModel
+<h3>Nouveau téléphone</h3>
+<form method="post" asp-controller="Tel" asp-action="Create" >
+    <input type="hidden" asp-for="IdPersonne">
+    <div class="form-group">
+        <label asp-for="Numero"></label>
+        <input class="form-control" asp-for="Numero">
+        <span asp-validation-for="Numero" class="text-danger"></span>
+    </div>
+    <div>
+        <button class="btn btn-warning">Ajouter le téléphone</button>
+    </div>
+</form>

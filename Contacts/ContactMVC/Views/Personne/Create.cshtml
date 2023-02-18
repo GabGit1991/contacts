@@ -1,0 +1,13 @@
+@model PersonneModel
+<h3>Nouveau contact</h3>
+
+<form method="post">
+    <partial name="_PersonneEditControls" model="@Model"></partial>
+    <div>
+        <button  class="btn btn-warning">Créer</button>
+    </div>
+</form>
+
+@section Scripts{
+       <partial name="_ValidationScriptsPartial"></partial>
+}

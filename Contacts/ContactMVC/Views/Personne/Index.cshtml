@@ -1,0 +1,17 @@
+@model IEnumerable<PersonneModel>
+<a style="float: right;" class="btn btn-warning"
+    asp-action="Create"
+>+</a>
+<h3>Liste des personnes</h3>
+
+<hr>
+<div class="list-group">
+    @foreach (var p in @Model)
+    {
+        <a
+            asp-action="Details"
+            asp-route-id="@p.Id"
+             class="list-group-item list-group-item-action">@p.Nom @p.Prenom</a>
+    }
+
+</div>
